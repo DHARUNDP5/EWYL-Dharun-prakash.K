@@ -1,2 +1,5 @@
-# EWYL-Dharun-prakash.K
-Initial repository
+# git 
+Initial respository
+NAME:DHARUN PRAKASH.K
+DEPT NAME:ECE
+ROLL NO:20EC028  
